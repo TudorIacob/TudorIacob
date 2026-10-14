@@ -45,11 +45,6 @@ Financial data analysis exploring portfolio performance and risk metrics, includ
 
 **Focus:** Python · data analysis · financial metrics
 
-### 📊 [Streamlit Data Dashboard](https://github.com/TudorIacob/streamlit-data-dashboard)
-
-A Python and Streamlit application for exploring data through an interactive dashboard.
-
-**Focus:** Python · Streamlit · data visualization
 
 ## Technical toolkit
 
