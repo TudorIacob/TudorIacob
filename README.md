@@ -23,7 +23,7 @@ I enjoy taking a project from the initial problem and system design through impl
 
 ## Featured work
 
-### 🤖 [T.AI — Conversational AI Portfolio](https://tudoriacob.ro)
+### 🤖 [T.AI — Conversational AI Portfolio](https://tudoriacob.cloud.run)
 
 An AI-powered conversational experience that helps visitors explore my projects, skills, and experience — and discuss potential collaborations.
 
