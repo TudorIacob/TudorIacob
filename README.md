@@ -6,7 +6,7 @@
 
 I build practical AI-powered applications that connect **LLMs, data, and business workflows**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tudoriacob.ro-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://tudoriacob.ro)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tudoriacob.ro-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://tudoriacob.cloud.run)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tudor-iacob/)
 
 📍 Bucharest, Romania · Open to AI engineering opportunities and collaborations
@@ -29,7 +29,7 @@ An AI-powered conversational experience that helps visitors explore my projects,
 
 **Focus:** conversational AI · knowledge retrieval · multilingual interactions · web integration
 
-> Live experience: [tudoriacob.ro](https://tudoriacob.ro). The source repository is not linked here.
+> Live experience: [tudoriacob.cloud.run](https://tudoriacob.cloud.run). The source repository is not linked here.
 
 ### 🔎 AI-Powered Profiling Agent
 
@@ -74,4 +74,4 @@ Financial data analysis exploring portfolio performance and risk metrics, includ
 
 Have an idea for an AI agent, an automation workflow, or a Python application? I'm happy to discuss it.
 
-**[Explore my portfolio](https://tudoriacob.ro)** · **[Connect on LinkedIn](https://www.linkedin.com/in/tudor-iacob/)**
+**[Explore my portfolio](https://tudoriacob.cloud.run)** · **[Connect on LinkedIn](https://www.linkedin.com/in/tudor-iacob/)**
